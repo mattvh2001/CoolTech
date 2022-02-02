@@ -1,0 +1,44 @@
+
+.repHeading{
+    font-size: 55px;
+    padding-top: 27px;
+    padding-bottom: 27;
+}
+
+h3{
+    font-size: 30px;
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+.listContainer2{
+    display: flex;
+    Flex-direction: row;
+    justify-content: space-around;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    padding:10px;
+}
+
+
+.repLinks{
+    width:100px;
+    padding:10px;
+    height: 40px;
+    background: #8e44ad;
+    border-radius: 25px;
+    font-size: 20px;
+    color: #e9f4fb;
+    font-weight: 700;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  button:hover{
+    border-color: #8e44ad;
+    transition: .5s;
+  }
